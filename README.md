@@ -42,7 +42,6 @@ This project is a fully functional dashboard built with **Next.js**, **Tailwind 
 - The state of selected filters persists even after refreshing the page.
 
 ## Technologies Used
-- **Next.js** - Server-side rendering (SSR) and static site generation (SSG)
 - **Tailwind CSS** - Modern utility-first styling
 - **Recharts / react-charts** - For visualizing data with charts
 - **React Select** - Custom dropdown components for filtering
@@ -55,6 +54,6 @@ This project is a fully functional dashboard built with **Next.js**, **Tailwind 
 - Improve **UI/UX enhancements** based on feedback.
 
 ---
-### Author: Your Name
+### Author:Balaji Deshmukh
 Feel free to contribute or modify as needed!
 
